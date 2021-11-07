@@ -1,7 +1,7 @@
 # Team Name - Hackstreet-Girls
 # Institute - IIITA
 
-This repo is meant to our submission for Myntra-HackerRamp-2021. Our theme name is *Beautify*.
+This repo is meant to our submission for *Myntra-HackerRamp-2021*. Our theme name is *Beautify*.
 
 ### Steps to run the project
 
