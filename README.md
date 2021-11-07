@@ -7,7 +7,7 @@ This repo is meant to our submission for *Myntra-HackerRamp-2021*. Our theme nam
 
 Make sure you have added .dat file in the same directory before running any files.
 
-Run `landmark_detection.py` file to see how face
+Run `landmark_detection.py` file to see how landmarks points out on face
 
 ### For lipstick makeup
 
